@@ -1,3 +1,7 @@
+
 def solution(mylist):
-    answer = mylist[0]
+    answer = []
+    for i in range(len(mylist)):
+        j = len(mylist[i])
+        answer.append(j)
     return answer
