@@ -490,4 +490,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# etc
+desktop.ini
+
 # End of https://www.toptal.com/developers/gitignore/api/vscode,windows,python,venv,pycharm,jupyternotebooks,java,intellij,kotlin,swift
