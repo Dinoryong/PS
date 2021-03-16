@@ -24,7 +24,7 @@
 
 
 
-### [Algorithm]()
+### [Algorithm](https://github.com/Dinoryong/CS-academy/tree/main/Algorithm)
 
 1. **★재귀(Recursion)** : 가장 많이 활용. 중요한 건 호출 횟수를 줄여야 함 (반복 조건, 종료 조건 체크)
 2. **★BFS, DFS** : 2차원 배열에서 확장 시, 경우의 수를 탐색할 때 구조체(class)와 visited 체크를 사용함
@@ -122,7 +122,7 @@ Third Time {
 
 ------------
 
-## Pythonic Way
+## [Pythonic Way](https://github.com/Dinoryong/CS-academy/blob/main/Algorithm/Pythonic%20Way.md)
 
 > [파이썬 언어 레퍼런스](https://docs.python.org/ko/3/reference/index.html)
 
@@ -130,23 +130,13 @@ Third Time {
 
 ### Unpacking
 
-
-
 ### List Comprehension
-
-
 
 ### Dictionary 잘 쓰기
 
-
-
 ### Sorting
 
-
-
 ### 문자열
-
-
 
 ### Combination/Permutation
 
@@ -156,31 +146,15 @@ Third Time {
 
 #### sum
 
-
-
 #### join
-
-
 
 #### swap
 
-
-
 #### for, while문 에서의 else
-
-
 
 #### Enumerate
 
-
-
 #### Counter
-
-
-
-
-
-
 
 
 
