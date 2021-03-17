@@ -125,6 +125,8 @@ Third Time {
 ## [Pythonic Way](https://github.com/Dinoryong/CS-academy/blob/main/Algorithm/Pythonic%20Way.md)
 
 > [파이썬 언어 레퍼런스](https://docs.python.org/ko/3/reference/index.html)
+>
+> [파이썬 구글 스타일 가이드](https://google.github.io/styleguide/pyguide.html)
 
 
 
@@ -264,6 +266,8 @@ Third Time {
 
 
 #### 2019 상반기 기출 분석
+
+[2019 상반기 LINE 인턴 코테](https://deepwelloper.tistory.com/118)
 
 |      |      |
 | ---- | ---- |
