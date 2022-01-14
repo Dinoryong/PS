@@ -5,3 +5,7 @@ def solution(nums):
         return unique_types
     else:
         return len(nums) / 2
+
+#
+def solution(ls):
+    return min(len(ls)/2, len(set(ls)))
