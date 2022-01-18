@@ -6,3 +6,7 @@ def solution(a, b):
         temp += a[i]*b[i]
 
     return temp
+
+#
+def solution(a, b):
+    return sum([x*y for x, y in zip(a,b)])
