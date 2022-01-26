@@ -90,7 +90,11 @@ print(read_CSV)
 
 
 
-
+sentence = "I love you"
+reversed_sentence = ""
+for char in sentence:
+    reversed_sentence = char + reversed_sentence
+print(reversed_sentence)
 
 
 
