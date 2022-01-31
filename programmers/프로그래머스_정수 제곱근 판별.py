@@ -2,6 +2,7 @@ def solution(n):
     answer = 0
     sqrt = n ** (1/2)
 
+    # 제곱근이 정수이면
     if sqrt % 1 == 0:
         answer = (sqrt + 1) ** 2
     else:
