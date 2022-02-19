@@ -1,11 +1,13 @@
 def solution(nums):
-    unique_types = len(set(nums))
+    answer = 0
+    N = len(nums)
 
-    if len(nums) / 2 > unique_types:
-        return unique_types
+    set_nums = set(nums)
+    # print(set_nums)
+    k = len(set_nums)
+    if k >= N/2:
+        answer = N/2
     else:
-        return len(nums) / 2
+        answer = k
 
-#
-def solution(ls):
-    return min(len(ls)/2, len(set(ls)))
+    return answer

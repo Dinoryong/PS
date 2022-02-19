@@ -58,6 +58,8 @@ def solution(N, stages):
 
 ''' 
 맞은 답
+
+python count
 '''
 def solution(N, stages):
     People = len(stages)
